@@ -1,2 +1,4 @@
 # info2180-lab2
-This is my second lab in the course Web Development I.
+
+# INFO2180 Lab 2
+This is Lab 2 for Shemar Jones
